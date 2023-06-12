@@ -9,7 +9,7 @@ Onboarding task for MVP Studio
 
 ### Content
 
-## This website project is designed to create a CRUD application
+## This website project is designed to create a CRUD application. 
 
 - [x] Customers Page: gets the list of customers from the database. Allows to Create, Edit and Delete customers. 
 - [x] Products Page: gets the list of products from the database. Allows to Create, Edit and Delete products. 
@@ -18,7 +18,7 @@ Onboarding task for MVP Studio
 
 ### Technical
 
-## The website will use different concepts that I learned. To make it responsive, I have used flexbox and grid.
+## The website will use different concepts that I learned. The Back-end will use C# and .NET CORE environment. For the Front-end I will use React.
 
 - [x] Create a database with 3 tables: customers, products, stores and then joined them into another table to create the sales table
 - [x] Create a model for each feature: customers, product, stores and sales.
@@ -32,10 +32,10 @@ Onboarding task for MVP Studio
 
 #### Customer Page
 
-![ Customer Page ](./react_onboarding/public/images/screenshot_stores)
+![ Customer Page ](../react_onboarding/public/images/screenshot_stores)
 
 #### Stores Page
 
-![ Stores Page ](./react_onboarding/public/images/screenshot_stores)
+![ Stores Page ](../react_onboarding/public/images/screenshot_stores)
 
 
