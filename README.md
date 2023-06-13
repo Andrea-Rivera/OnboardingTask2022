@@ -32,7 +32,7 @@ Onboarding task for MVP Studio
 
 #### Customer Page
 
-![ Customer Page ](react_onboarding/public/screenshot_customer.JGP)
+![ Customer Page ](react_onboarding/public/screenshot-customer.JGP)
 
 #### Product Page
 
