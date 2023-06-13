@@ -32,18 +32,18 @@ Onboarding task for MVP Studio
 
 #### Customer Page
 
-![ Customer Page ](./react_onboarding/public/images/screenshot_customer)
+![ Customer Page ](./react_onboarding/public/screenshot_customer.JGP)
 
 #### Product Page
 
-![ Product Page ](./react_onboarding/public/images/screenshot_product)
+![ Product Page ](./react_onboarding/public/screenshot_product.JPG)
 
 #### Store Page
 
-![ Store Page ](./react_onboarding/public/images/screenshot_store)
+![ Store Page ](./react_onboarding/public/screenshot_store.JPG)
 
 #### Sales Page
 
-![ Sales Page ](./react_onboarding/public/images/screenshot_sales)
+![ Sales Page ](./react_onboarding/public/screenshot_sales.JPG)
 
 
